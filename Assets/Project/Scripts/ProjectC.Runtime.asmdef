@@ -1,0 +1,23 @@
+{
+  "name": "ProjectC.Runtime",
+  "rootNamespace": "ProjectC.Runtime",
+  "references": [
+    "UniTask",
+    "UniTask.Addressables",
+    "UniTask.DOTween",
+    "Unity.Addressables",
+    "Unity.ResourceManager",
+    "Unity.InputSystem",
+    "DOTween.Modules",
+    "DOTweenPro.Scripts"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
